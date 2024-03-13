@@ -14,7 +14,7 @@ Soy un apasionado desarrollador de software con experiencia en varias tecnologí
 - **Avance Legal:** Desarrollé una aplicación web para el análisis de incidentes de una empresa llamada Avance Legal. La aplicación permite a los usuarios registrar y analizar incidentes ocurridos en el lugar de trabajo, así como también generar informes y estadísticas para mejorar la seguridad laboral.
 
 ## Cómo contactarme
-¡Estoy siempre abierto a nuevas oportunidades y colaboraciones! Si quieres contactarme, puedes enviarme un correo electrónico a correo@example.com.
+¡Estoy siempre abierto a nuevas oportunidades y colaboraciones! Si quieres contactarme, puedes enviarme un correo electrónico a diegomendoza2609@gmail.com
 
 ## Datos curiosos
 - Soy un gran aficionado al fútbol y me encanta ver los partidos del real madrid
