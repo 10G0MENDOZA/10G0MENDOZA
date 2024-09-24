@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy 10G0MENDOZA
+# ¡Hola! 👋 Soy 10GOMENDOZA
 
 ## Acerca de mí
 Soy un apasionado desarrollador de software con experiencia en varias tecnologías. Me encanta construir aplicaciones web y móviles, así como también trabajar en proyectos de Fronentd y tambien un poco de backend .  y un Siempre estoy buscando aprender cosas nuevas y mejorar mis habilidades.
