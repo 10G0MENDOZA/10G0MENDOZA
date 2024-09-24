@@ -6,8 +6,8 @@ Soy un apasionado desarrollador de software con experiencia en varias tecnologí
 ## Mis habilidades
 - **Lenguajes de programación:** PHP, Java, JavaScript
 - **Desarrollo web:** HTML, CSS,PHP, JAVASCRIPT
-- **Base de datos:** MySQL XAM
-- **Herramientas y frameworks:** XAMPP
+- **Base de datos:** MySQL 
+- **Herramientas y frameworks:** 
 
 ## Mis proyectos destacados
 - **Perfect Skin:** Desarrollé un aplicativo web para una tienda de cremas para la cara llamada Perfect Skin. Permite a los usuarios explorar y comprar productos, así como también proporciona información detallada sobre los productos y consejos de cuidado de la piel.
